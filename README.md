@@ -3,8 +3,13 @@
 # Introduction
 This is repo to save the result of License Plate Recognition model.
 
-Now, the source code is somewhere that I not find yet :))).
+The source code is in Model folder. This folder contain data set and Google Colab cotain model/code to train.
 
-Because, it from 2022 when I do my Thesis.
+Result folder cotain the result of my model:
 
-I just want to upload the result first.
+# Tech Stack
+YOLOv4: To dectect the license Plate.
+
+MobileNet V2: To recognize the number and character on License Plate.
+
+Image processing (OpenCV libray).

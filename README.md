@@ -14,6 +14,11 @@ MobileNet V2: To recognize the number and character on License Plate.
 
 Image processing (OpenCV libray).
 
+# Flow chart
+
+![image](https://github.com/user-attachments/assets/654f6884-0a91-4b66-9997-47ef03c03aac)
+
+
 # Result
 ![image](https://github.com/user-attachments/assets/1edbf4e3-7c32-4f59-b6dd-2ea61ccfbc4f)
 
